@@ -1,0 +1,27 @@
+{
+    "name": "DrainGangModPack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Roboroads/LC-DrainGangModPack",
+    "description": "The Drain Gang Modpack",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "2018-LC_API-2.1.1",
+        "bizzlemip-BiggerLobby-2.4.0",
+        "x753-More_Suits-1.3.3",
+        "Mom_Llama-Lethal_Company_Enhancer-0.1.6",
+        "anormaltwig-LateCompany-1.0.4",
+        "Steven-Custom_Boombox_Music-1.4.0",
+        "299792458-MoreMoneyStart-2.0.0",
+        "sunnobunno-YippeeMod-1.2.1",
+        "NotAtomicBomb-TerminalApi-1.3.2",
+        "NotAtomicBomb-Terminal_Clock-1.0.5",
+        "sunnobunno-BonkHitSFX-1.0.3",
+        "RickArg-Helmet_Cameras-2.1.3",
+        "Suskitech-AlwaysHearActiveWalkies-1.4.2",
+        "Renegades-WalkieUse-1.2.3",
+        "FlipMods-FasterItemDropship-1.2.0",
+        "Sligili-More_Emotes-1.1.1",
+        "FlipMods-ObjectVolumeController-1.0.3",
+        "FlipMods-LetMeLookDown-1.0.1"
+    ]
+}
