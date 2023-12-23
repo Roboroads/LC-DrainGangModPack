@@ -1,6 +1,6 @@
 {
     "name": "DrainGangModPack",
-    "version_number": "1.1.0",
+    "version_number": "1.2.0",
     "website_url": "https://github.com/Roboroads/LC-DrainGangModPack",
     "description": "The Drain Gang Modpack",
     "dependencies": [
@@ -22,14 +22,12 @@
         "steven4547466-YoutubeBoombox-1.5.0",
         "anormaltwig-LateCompany-1.0.6",
         "Mom_Llama-Lethal_Company_Enhancer-0.1.8",
-        "Verity-TooManySuits-1.0.4",
         "bizzlemip-BiggerLobby-2.6.0",
         "Rune580-LethalCompany_InputUtils-0.4.3",
         "Midge-PushCompany-1.2.0",
         "EliteMasterEric-Coroner-1.4.2",
         "RugbugRedfern-Skinwalkers-2.0.1",
         "AllToasters-QuickRestart-1.2.0",
-        "FlipMods-TooManyEmotes-1.5.3",
         "anormaltwig-TerminalExtras-1.0.1",
         "kRYstall9-FastSwitchPlayerViewInRadar-1.3.1"
     ]
